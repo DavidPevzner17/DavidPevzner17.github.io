@@ -26,17 +26,13 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "A high school student interested in physics"
   location         : "US"
-  employer         : ""
   uri              : # URL
   email            : "none@example.org" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : ""
   impactstory      : # URL
-  orcid            : ""
   semantic         : # URL
-  pubmed           : ""
   researchgate     : # URL
   scopus           : # URL
 
@@ -44,7 +40,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "DavidPevzner17"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
