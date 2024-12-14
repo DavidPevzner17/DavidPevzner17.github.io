@@ -27,7 +27,7 @@ author:
   bio              : "A high school student interested in physics"
   location         : "US"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "dpevzner17@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -143,7 +143,7 @@ social:
 analytics:
   provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
-    tracking_id          :   UA-G-GTZDG7DT9B
+    tracking_id          :  
 
 
 # Reading Files
